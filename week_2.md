@@ -16,10 +16,14 @@
 
 ## 2. 테스트 대상 설정
   ### - 애뮬레이터 설정
-  1. 스마트폰과 USB로 연결
-  2. 안드로이드 스튜디오에서 디바이스를 연결한 스마트폰으로 설정
-  3. RUN, 잠시 대기
+  1. 우측의 Device Manager 클릭
+  2. 플레이스토어를 지원하는 임의의 기기 선택
+  3. 실행 후 잠시 대기
   4. 스마트폰 화면 확인
+  5. 예제코드 실행 후 결과 확인
+  6. 이상 없음
+
+![image](https://github.com/user-attachments/assets/d156cdd4-b922-4e14-b520-100361c2a4e3)
 
 
 ## 문제 상황
@@ -27,4 +31,4 @@
     - Tools의 Android SDK의 SDK Update Sites에서 업데이트가 되지 않은 것을 찾아 업데이트  
       -> 오류 지속  
     - Tools의 Android SDK의 SDK Tools에서 NDK 다운로드  
-      ->
+      -> 오류 해결 
