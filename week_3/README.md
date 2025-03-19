@@ -51,7 +51,7 @@ https://developer.android.com/about/versions/12/features/bluetooth-permissions -
   ※ 디바이스의 화면이 꺼지지 않도록 주의
 
 ## 2. 테스트 대상 설정
-  ### - 애뮬레이터 설정
+  ### - 에뮬레이터 설정
   1. 우측의 Device Manager 클릭
   2. 플레이스토어를 지원하는 임의의 기기 선택
   3. 실행 후 잠시 대기
