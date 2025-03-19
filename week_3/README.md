@@ -11,18 +11,20 @@
   2. 터미널에 `flutter pub add flutter_blue_plus` 입력
   3. 프로젝트 파일에 있는 pupspec.yaml 파일을 실행
   4. dependencies: 구문에 flutter_blue와 permission_handler, device_info 입력
-    `dependencies:
-  flutter:
-    sdk: flutter
-  flutter_blue_plus: ^1.35.3
-  permission_handler: ^11.4.0
-  device_info_plus: ^11.3.3`  
-  ※ 버전 꼭 확인하기
-  5. 완료한 후, 터미널에서 캐시를 비우고 get 진행
+  ```
+  dependencies:
+    flutter:
+      sdk: flutter   
+    flutter_blue_plus: ^1.35.3
+    permission_handler: ^11.4.0   
+    device_info_plus: ^11.3.3`  
+  ```
+  ※ 버전 꼭 확인하기  
+  6. 완료한 후, 터미널에서 캐시를 비우고 get 진행
      `flutter clean
      flutter pub get`
-  6. <프로젝트 파일>\android\app\src\main\AndroidManifest.xml 실행
-  7. manifest 구문 밑에 아래 코드 입력 (안드로이드 버전에 따른 권한 설정)
+  7. <프로젝트 파일>\android\app\src\main\AndroidManifest.xml 실행
+  8. manifest 구문 밑에 아래 코드 입력 (안드로이드 버전에 따른 권한 설정)
 ```
 <!-- Tell Google Play Store that your app uses Bluetooth LE Set android:required="true" if bluetooth is necessary -->
 <uses-feature android:name="android.hardware.bluetooth_le" android:required="false" />
