@@ -16,7 +16,7 @@
     sdk: flutter
   flutter_blue_plus: ^1.35.3
   permission_handler: ^11.4.0
-  device_info_plus: ^11.3.3`
+  device_info_plus: ^11.3.3`  
   ※ 버전 꼭 확인하기
   5. 완료한 후, 터미널에서 캐시를 비우고 get 진행
      `flutter clean
@@ -47,7 +47,7 @@ https://developer.android.com/about/versions/12/features/bluetooth-permissions -
   3. 기기를 컴퓨터와 물리적으로 연결 
   4. 프로젝트 파일을 실행
   5. 상단의 RUN 옆에 있는 Flutter Device Selection에서 디바이스 선택
-  6. RUN
+  6. RUN  
   ※ 디바이스의 화면이 꺼지지 않도록 주의
 
 ## 2. 테스트 대상 설정
