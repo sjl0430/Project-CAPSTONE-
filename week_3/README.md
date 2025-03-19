@@ -45,7 +45,7 @@ https://developer.android.com/about/versions/12/features/bluetooth-permissions -
 ```
 
   ### - 에뮬레이터 변경
-  1. 노트북으로 진행하다보니 애뮬레이터로는 한계가 보임 -> 스마트폰 활용
+  1. 노트북으로 진행하다보니 에뮬레이터로는 한계가 보임 -> 스마트폰 활용
   2. 안드로이드 버전12부터는 권한 설정이 더 세분화되기 때문에 이를 고려하여 안드로이드 버전 13인 기기 활용 
   3. 기기를 컴퓨터와 물리적으로 연결 
   4. 프로젝트 파일을 실행
@@ -53,13 +53,8 @@ https://developer.android.com/about/versions/12/features/bluetooth-permissions -
   6. RUN  
   ※ 디바이스의 화면이 꺼지지 않도록 주의
 
-## 2. 테스트 대상 설정
-  ### - 에뮬레이터 설정
-  1. 우측의 Device Manager 클릭
-  2. 플레이스토어를 지원하는 임의의 기기 선택
-  3. 실행 후 잠시 대기
-  4. 스마트폰 화면 확인
-  5. 예제코드 실행 후 결과 확인
-  6. 이상 없음
+## 2. BLE 예제 테스트
+  ### - 
+  <link https://pub.dev/packages/flutter_blue_plus/>
 
 
