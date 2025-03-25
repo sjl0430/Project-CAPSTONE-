@@ -54,7 +54,20 @@ https://developer.android.com/about/versions/12/features/bluetooth-permissions -
   ※ 디바이스의 화면이 꺼지지 않도록 주의
 
 ## 2. BLE 예제 테스트
-  ### - 
-  <link https://pub.dev/packages/flutter_blue_plus/>
+  ### - BLE 공식 플러그인에서 제공하는 예제로 테스트
+  [참고](https://pub.dev/packages/flutter_blue_plus)
+  1. 예제 파일 다운
+  2. 실행
+  3. 코드 해석
+  4. 실행 중 생긴 오류 수정
+  5. 재실행
 
+## 수정 사항
+[수정 전 - 우상단에 Disconnect가 있으나, 글자가 흰색이고 버튼형식도 아니어서 보기 어려움]
+![무제21_20250325131706](https://github.com/user-attachments/assets/15872748-7ce7-4019-935f-11d21be7ba77)
 
+[수정 후 - Disconnect에 붉은색 버튼을 달아줌]
+![무제21_20250325131820](https://github.com/user-attachments/assets/63ca5bf9-47bc-4245-ae82-9581643b7f0e)
+
+  ### - 그 외 
+  - 연결 오류, 권한 오류 등을 수정하였으나 문제 해결에 신경쓰느라 기록을 못함..
