@@ -23,4 +23,5 @@
   
 ## 3. 디자인 초안
   ### 1번 시도
-  
+  ![1000000715](https://github.com/user-attachments/assets/00c60166-883e-4d6e-ad87-72db752c23d2)
+
