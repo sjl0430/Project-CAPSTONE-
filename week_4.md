@@ -25,3 +25,5 @@
   ### 1번 시도
   ![1000000715](https://github.com/user-attachments/assets/00c60166-883e-4d6e-ad87-72db752c23d2)
 
+  ### 2번 시도
+  ![1000000763](https://github.com/user-attachments/assets/0f08dd9e-e993-4214-9a86-24145da61c92)
