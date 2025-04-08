@@ -13,9 +13,11 @@
 ## 3. 편의성 수정
   - SCAN 지속 시간을 30초로 변경
   - Find Devices를 Devices List로 수정
-
+  - 디바이스 이름이 없는 결과는 출력하지 않도록 수정
 
 ## 그 외
   - 일부 버튼의 색깔 수정
   - 검색어 필터링 기능을 만드는데 시간을 너무 써버렸지만, 만들고 나니까 마음이 편해짐
     
+![Screenshot_20250408_151810](https://github.com/user-attachments/assets/cb7d32f9-1f94-4835-95db-f8e2734a0b84)
+![Screenshot_20250408_151814](https://github.com/user-attachments/assets/037b1001-5f78-4d0a-9ca7-2c2abcca74c3)
